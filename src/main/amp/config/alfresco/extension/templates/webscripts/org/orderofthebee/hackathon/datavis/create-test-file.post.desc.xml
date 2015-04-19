@@ -1,0 +1,9 @@
+<webscript>
+  <shortname>Get datavis counters</shortname>
+  <description>Returns counters for datavis</description>
+  <url>/ootb/datavis/create-test-file.json</url>
+  <format default="json">extension</format>
+  <authentication runas="admin">guest</authentication>
+  <transaction>none</transaction>
+  <family>OrderOfTheBee</family>
+</webscript>
